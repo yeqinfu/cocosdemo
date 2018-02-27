@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "turnright",
+    "texture": "d60ff415-3f15-4462-91c1-615918ce44c6",
+    "atlas": "",
+    "rect": [
+      5,
+      5,
+      118,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

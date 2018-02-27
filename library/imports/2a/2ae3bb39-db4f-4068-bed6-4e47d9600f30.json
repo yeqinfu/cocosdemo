@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "turnleft",
+    "texture": "64154807-2aaa-48d5-99d9-8bda3a790509",
+    "atlas": "",
+    "rect": [
+      5,
+      5,
+      118,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}
